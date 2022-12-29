@@ -15,7 +15,7 @@
 <a href="linkedin.com/in/shubham-gupta-494a54248"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35px" height="35px"></a></image>
 
 ### :fire: My Stats :
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-shubham Gupta&theme=dark&background=000000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-shubhamgupta&theme=dark&background=000000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubhamgupta2103&theme=dark&background=000000)](https://git.io/streak-stats)
 
