@@ -7,6 +7,7 @@
 
 📧 **shubhamgupta7845@gmail.com**  
 🔗 **LinkedIn:** https://linkedin.com/in/shubham-gupta-494a54248  
+🌐 **Portfolio:** https://shubhamgupta2103.github.io/portfolio-shubham-gupta/  
 🌱 *Currently learning Full Stack Development (MERN + Advanced Java)*  
 
 ---
